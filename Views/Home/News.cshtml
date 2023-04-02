@@ -1,0 +1,29 @@
+﻿@model List<News>
+<section id="testimonials" class="testimonials">
+    <div class="container aos-init aos-animate" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>News @ViewBag.Cat</h2>
+        </div>
+        <center>
+            @foreach (var item in Model)
+            {
+                <div class="owl-item cloned col-8" style="height:300px;">
+                    <div class="testimonial-item">
+                        <h3>@item.Title</h3>
+                        <h4>@item.Date</h4>
+                        <p>
+                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                            @item.Topic
+                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                        </p>
+                    </div>
+                </div>
+                <center>
+                    <a class="btn btn-danger" href="/Home/DeleteNews/@item.Id">Delete</a>
+                </center>
+                <hr />
+            }
+        </center>
+    </div>
+</section>

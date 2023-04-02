@@ -1,0 +1,27 @@
+﻿@model List<ContactUS>
+<section id="testimonials" class="testimonials">
+    <div class="container aos-init aos-animate" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>Comments</h2>
+        </div>
+        <center>
+               @foreach (var item in Model)
+                {
+                    <div class="owl-item cloned col-8" >
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                @item.Message
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                            
+                            <h3>@item.Name</h3>
+                            <h4>@item.Email</h4>
+                        </div>
+                    </div>
+                    <hr />
+                }
+        </center>
+            </div>
+</section>
