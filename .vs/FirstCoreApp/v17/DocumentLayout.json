@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\projects (asp.net)\\firstcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\projects (asp.net)\\firstcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\projects (asp.net)\\firstcoreapp\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\projects (asp.net)\\firstcoreapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A350F315-A8A6-4A92-B9F5-8F0230BE1B27}|FirstCoreApp.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAC/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T18:04:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:43:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwDkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:37:35.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAQwGsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:36:14.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

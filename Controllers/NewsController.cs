@@ -58,14 +58,14 @@ namespace FirstCoreApp.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create([Bind("Id,Title,Date,Image,Topic,CatrgoryId")] News news)
         {
-            if (ModelState.IsValid)
-            {
+            //if (ModelState.IsValid)
+            //{
                 _context.Add(news);
                 _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
-            }
-            ViewData["CatrgoryId"] = new SelectList(_context.Categories, "Id", "Id", news.CatrgoryId);
-            return View(news);
+            //}
+            //ViewData["CatrgoryId"] = new SelectList(_context.Categories, "Id", "Id", news.CatrgoryId);
+            //return View(news);
         }
 
         // GET: News/Edit/5

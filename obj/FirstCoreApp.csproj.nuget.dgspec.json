@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\FirstCoreApp\\FirstCoreApp.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\FirstCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\FirstCoreApp\\FirstCoreApp.csproj": {
+    "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\FirstCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\FirstCoreApp\\FirstCoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\FirstCoreApp.csproj",
         "projectName": "FirstCoreApp",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\FirstCoreApp\\FirstCoreApp.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\FirstCoreApp.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\FirstCoreApp\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\FirstCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -101,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
         }
       }
     }
